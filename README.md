@@ -1,7 +1,7 @@
 # typescript-sandbox
 
 > [!NOTE]
-> This repository is for assiting me in learning Typescript.
+> This repository is to facilitate in learning Typescript.
 
 - [ ] Get the basics
 - [ ] Make an app
